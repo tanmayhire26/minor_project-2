@@ -1,0 +1,207 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-1{
+    margin: 100px auto;
+    position: relative;
+    width: 50%;
+    height: 10%;
+}
+.container-1-1{
+    width: 35%;
+    height: 100%;
+    padding-top: 20%;
+}
+#tasks{
+    font-weight: bold;
+    font-size: 30px;
+}
+#lists{
+    font-size: 30px;
+    margin-left: 10px;
+    opacity:0.7;
+}
+.container-1-2{
+    width: 30%;
+    height: 100%;
+    padding-top: 20%;
+    position: absolute;
+    top: 0px;
+    right:0px;
+}
+#add-list{
+    position:absolute;
+    width:80%;
+    height:100%;
+    top: 0;
+    right:0;
+    font-size: 25px;
+    padding-top: 67%;
+
+}
+#fafa-addlist{
+    padding-left: 5px;
+    font-size: 25px;
+    color:red;
+    
+}
+.card1{
+    margin-top: 10px;
+    border: 1 px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    right: 300px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px rgb(224, 28, 119);
+    margin: auto;
+}
+.div1{
+    position: relative;
+    left: 10px;
+    top: 15px;
+    height: 15%;
+    font-size: 25px;
+    text-align: left;
+    border-bottom: 1px solid;
+    color: red;
+}
+.div2{
+    position:relative;
+    top: 30px;
+    text-decoration: line-through 2px;
+    color: red;
+    left: 15px;
+}
+.div3{
+    position: relative;
+    top: 50px;
+    left: 8px;
+}
+.card2{
+    margin-top: 10px;
+    border: 1 px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    bottom: 295px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px rgb(224, 28, 119);
+    margin: auto;
+}
+.div11{
+    position: relative;
+    left: 10px;
+    top: 15px;
+    height: 15%;
+    font-size: 25px;
+    text-align: left;
+    border-bottom: 1px solid;
+    color: red;
+}
+.div22{
+    position:relative;
+    top: 30px;
+    text-decoration: line-through 2px;
+    color: red;
+    left: 15px;
+}
+.div33{
+    position: relative;
+    top: 50px;
+    left: 8px;
+}
+
+.card3{
+    margin-top: 10px;
+    border: 1 px solid green;
+    height: 45vh;
+    width: 15%;
+    position: relative;
+    left: 300px;
+    bottom: 590px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px 1px rgb(224, 28, 119);
+    margin: auto;
+}
+.div111{
+    position: relative;
+    left: 10px;
+    top: 15px;
+    height: 15%;
+    font-size: 25px;
+    text-align: left;
+    border-bottom: 1px solid;
+    color: red;
+}
+.div222{
+    position:relative;
+    top: 30px;
+    text-decoration: line-through 2px;
+    color: red;
+    left: 15px;
+}
+.div333{
+    position: relative;
+    top: 50px;
+    left: 8px;
+}
+
+.blur{
+    filter: blur(3px);
+    
+}
+.pop-card{
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow:rgb(224, 28, 119) 1px 1px 1px;
+    border-radius: 10px;
+    border: 1px palevioletred solid;
+    position: relative;
+    width: 25%;
+    left: 500px;
+    bottom: 950px;
+    height: 25vh;
+    background-color: white;
+    
+}
+.addnewlist{
+    color: red;
+    position: relative;
+    left: 120px;
+    top: 20px;
+}
+.input1{
+    position: relative;
+    top: 30px;
+    left: 25px;
+   
+    
+    
+}
+.button1{
+    position: relative;
+    left: 130px;
+    color: red;
+    top: 50px;
+    
+
+}
+#adb{
+    background-color: red;
+    border: 0px;
+    width: 70px;
+    height: 30px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+}
+#adnl{
+    height: 25px;
+    width: 85%;
+    border: 1px solid red;
+}
